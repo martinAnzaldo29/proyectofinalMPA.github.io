@@ -6,8 +6,7 @@
   background-image: fondo.jpg;
   font-family: sans-serif;
   --col-active: #4646462c;
-  --color-header: rgb(252, 252, 252);
-  --colorMiNav: white;
+ 
 }
 
 body, html {
@@ -26,8 +25,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color:
-    var(--color-header);
+
 }
 
 .herramientas {
@@ -78,7 +76,7 @@ p label>* {
 }
 
 body {
-  background: url('img/bg.jpg') no-repeat;
+  
   background-size: cover;
 }
 
